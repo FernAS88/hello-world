@@ -1,2 +1,4 @@
 # hello-world
-This is my hello world for GitHub
+This is my Hello World for GitHub
+
+Hello there, I like the world of C/C++ and Python, as well as very interested in assembly.
